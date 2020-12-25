@@ -1,0 +1,13 @@
+C:\Users\nisse\source\repos\CaveFantasy\CaveFantasy\bin\Debug\netcoreapp3.1\CaveFantasy.exe
+C:\Users\nisse\source\repos\CaveFantasy\CaveFantasy\bin\Debug\netcoreapp3.1\CaveFantasy.deps.json
+C:\Users\nisse\source\repos\CaveFantasy\CaveFantasy\bin\Debug\netcoreapp3.1\CaveFantasy.runtimeconfig.json
+C:\Users\nisse\source\repos\CaveFantasy\CaveFantasy\bin\Debug\netcoreapp3.1\CaveFantasy.runtimeconfig.dev.json
+C:\Users\nisse\source\repos\CaveFantasy\CaveFantasy\bin\Debug\netcoreapp3.1\CaveFantasy.dll
+C:\Users\nisse\source\repos\CaveFantasy\CaveFantasy\bin\Debug\netcoreapp3.1\CaveFantasy.pdb
+C:\Users\nisse\source\repos\CaveFantasy\CaveFantasy\obj\Debug\netcoreapp3.1\CaveFantasy.csprojAssemblyReference.cache
+C:\Users\nisse\source\repos\CaveFantasy\CaveFantasy\obj\Debug\netcoreapp3.1\CaveFantasy.AssemblyInfoInputs.cache
+C:\Users\nisse\source\repos\CaveFantasy\CaveFantasy\obj\Debug\netcoreapp3.1\CaveFantasy.AssemblyInfo.cs
+C:\Users\nisse\source\repos\CaveFantasy\CaveFantasy\obj\Debug\netcoreapp3.1\CaveFantasy.csproj.CoreCompileInputs.cache
+C:\Users\nisse\source\repos\CaveFantasy\CaveFantasy\obj\Debug\netcoreapp3.1\CaveFantasy.dll
+C:\Users\nisse\source\repos\CaveFantasy\CaveFantasy\obj\Debug\netcoreapp3.1\CaveFantasy.pdb
+C:\Users\nisse\source\repos\CaveFantasy\CaveFantasy\obj\Debug\netcoreapp3.1\CaveFantasy.genruntimeconfig.cache
