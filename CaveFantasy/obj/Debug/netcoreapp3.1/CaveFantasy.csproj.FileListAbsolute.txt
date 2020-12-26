@@ -11,3 +11,16 @@ C:\Users\nisse\source\repos\CaveFantasy\CaveFantasy\obj\Debug\netcoreapp3.1\Cave
 C:\Users\nisse\source\repos\CaveFantasy\CaveFantasy\obj\Debug\netcoreapp3.1\CaveFantasy.dll
 C:\Users\nisse\source\repos\CaveFantasy\CaveFantasy\obj\Debug\netcoreapp3.1\CaveFantasy.pdb
 C:\Users\nisse\source\repos\CaveFantasy\CaveFantasy\obj\Debug\netcoreapp3.1\CaveFantasy.genruntimeconfig.cache
+C:\Users\13dog\Documents\GitHub\CaveFantasy\CaveFantasy\bin\Debug\netcoreapp3.1\CaveFantasy.exe
+C:\Users\13dog\Documents\GitHub\CaveFantasy\CaveFantasy\bin\Debug\netcoreapp3.1\CaveFantasy.deps.json
+C:\Users\13dog\Documents\GitHub\CaveFantasy\CaveFantasy\bin\Debug\netcoreapp3.1\CaveFantasy.runtimeconfig.json
+C:\Users\13dog\Documents\GitHub\CaveFantasy\CaveFantasy\bin\Debug\netcoreapp3.1\CaveFantasy.runtimeconfig.dev.json
+C:\Users\13dog\Documents\GitHub\CaveFantasy\CaveFantasy\bin\Debug\netcoreapp3.1\CaveFantasy.dll
+C:\Users\13dog\Documents\GitHub\CaveFantasy\CaveFantasy\bin\Debug\netcoreapp3.1\CaveFantasy.pdb
+C:\Users\13dog\Documents\GitHub\CaveFantasy\CaveFantasy\obj\Debug\netcoreapp3.1\CaveFantasy.csprojAssemblyReference.cache
+C:\Users\13dog\Documents\GitHub\CaveFantasy\CaveFantasy\obj\Debug\netcoreapp3.1\CaveFantasy.AssemblyInfoInputs.cache
+C:\Users\13dog\Documents\GitHub\CaveFantasy\CaveFantasy\obj\Debug\netcoreapp3.1\CaveFantasy.AssemblyInfo.cs
+C:\Users\13dog\Documents\GitHub\CaveFantasy\CaveFantasy\obj\Debug\netcoreapp3.1\CaveFantasy.csproj.CoreCompileInputs.cache
+C:\Users\13dog\Documents\GitHub\CaveFantasy\CaveFantasy\obj\Debug\netcoreapp3.1\CaveFantasy.dll
+C:\Users\13dog\Documents\GitHub\CaveFantasy\CaveFantasy\obj\Debug\netcoreapp3.1\CaveFantasy.pdb
+C:\Users\13dog\Documents\GitHub\CaveFantasy\CaveFantasy\obj\Debug\netcoreapp3.1\CaveFantasy.genruntimeconfig.cache
